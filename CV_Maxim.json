@@ -1,0 +1,88 @@
+{
+   "basics":{
+      "name":"Максим Мороз",
+      "label":"QA",
+      "image":"",
+      "email":"maksimrec@bk.ru",
+      "phone":"+375291295726",
+      "url":"https://github.com/MaksimMor",
+      "summary":"Меня зовут Максим мне 25 лет. Последние 5 лет занимась сборкой мебели. А так же делаю мебель под заказ. ",
+      "location":{
+         "city":"Минск",
+         "countryCode":"Беларусь"
+      },
+      "profiles":[
+         {
+            "network":"Telegram",
+            "username":"@maksimrec",
+            "url":""
+         }
+      ]
+   },
+   "work":[
+      {
+         "name":"Фабрика Словянская Столица",
+         "position":"Сборщик мебели",
+         "url":"https://slavstolica.by/",
+         "startDate":"11.11.2024",
+         "endDate":"",
+         "summary":"Description…",
+         "highlights":[
+            "Собираю мебель"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"Профессионально-техническое",
+         "area":"Специалист строительных работ",
+         "startDate":"2017",
+         "endDate":"2018"
+      }
+   ],
+   "Сертификаты":[
+      {
+         "name":"«Software Testing Engineer. Basic level»",
+         "date":"2024",
+         "issuer":"BELHARD",
+         "url":"https://belhard.academy/"
+      }
+   ],
+   "skills":[
+      {
+         "name":"Web Development",
+         "level":"",
+         "keywords":[
+            "HTML",
+            "CSS",
+            "Java"
+         ]
+      }
+   ],
+   "languages":[
+      {
+         "language":"Русский"
+      }
+   ],
+   "interests":[
+      {
+         "name":"Мебель под заказ",
+         "keywords":[
+            "",
+            ""
+         ]
+      }
+   ],
+   "projects":[
+      {
+         "name":"GitHub",
+         "startDate":"",
+         "endDate":"",
+         "description":"",
+         "highlights":[
+            ""
+         ],
+         "url":""
+      }
+   ]
+}
